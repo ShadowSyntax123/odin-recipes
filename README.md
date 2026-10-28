@@ -1,0 +1,2 @@
+# Odin Recipes
+This project is a recipe website built using HTML. It will demonstrate my understanding of HTML elements, headings, paragraphs, links, images, and lists. I will also practice using Git and GitHub to track changes and manage my project.
